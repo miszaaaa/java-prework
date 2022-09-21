@@ -2,16 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4dbb9259-4fef-42a2-bfe1-eedec15508c9" name="Changes" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/src/Ex04DoubleType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex05BoolType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex06Types.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex07Operators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex08Conditions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex09Loops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex10Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex11Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex12Interview01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Ex03IntType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex03IntType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex09Loops.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex09Loops.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex10Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex10Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex11Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex11Arrays.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,16 +45,16 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Ex10Calculator">
-    <configuration name="Ex06Types" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex06Types" />
+  <component name="RunManager" selected="Application.Ex11Arrays">
+    <configuration name="Ex05BoolType" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex05BoolType" />
       <module name="Prework" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex07Operators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex07Operators" />
+    <configuration name="Ex08Conditions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex08Conditions" />
       <module name="Prework" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -87,11 +83,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Ex10Calculator" />
         <item itemvalue="Application.Ex11Arrays" />
+        <item itemvalue="Application.Ex10Calculator" />
         <item itemvalue="Application.Ex09Loops" />
-        <item itemvalue="Application.Ex07Operators" />
-        <item itemvalue="Application.Ex06Types" />
+        <item itemvalue="Application.Ex08Conditions" />
+        <item itemvalue="Application.Ex05BoolType" />
       </list>
     </recent_temporary>
   </component>

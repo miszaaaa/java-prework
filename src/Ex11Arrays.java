@@ -1,6 +1,15 @@
 public class Ex11Arrays {
     public static void main(String[] args) {
-        int[] array = new int[10];
+        int[] array = new int[10000];
+        int i = 0;
+        for (i = 0; i < 10000; i++) {
+            array[i] = i * 10;
+            System.out.print(array[i] + ",");
+            if(i%20==0){
+                System.out.print("\n");
+            }
+        }
+/*
         array[0] = 0;
         array[1] = 10;
         array[2] = 20;
@@ -22,5 +31,8 @@ public class Ex11Arrays {
         System.out.println("Element at 7 " + array[7]);
         System.out.println("Element at 8 " + array[8]);
         System.out.println("Element at 9 " + array[9]);
+*/
+
+
     }
-}
+ }
