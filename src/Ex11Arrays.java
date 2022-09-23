@@ -3,7 +3,7 @@ public class Ex11Arrays {
         int[] array = new int[10000];
         int i = 0;
         for (i = 0; i < 10000; i++) {
-            array[i] = i * 10;
+            array[i] = i * 100;
             System.out.print(array[i] + ",");
             if(i%20==0){
                 System.out.print("\n");
