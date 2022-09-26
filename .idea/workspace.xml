@@ -1,33 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4dbb9259-4fef-42a2-bfe1-eedec15508c9" name="Changes" comment="Exercise 3-10">
-      <change afterPath="$PROJECT_DIR$/Exercises/Ex01Factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercises/Ex02PrintReversed.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercises/Ex03MinMax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercises/Ex04Avg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercises/Ex05SumAll.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercises/Ex06ReverseArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercises/Ex07PrintEvens.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercises/Ex08SumEvens.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercises/Ex09MinMaxDistance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercises/Ex10BuildTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercises/Ex11QuadraticFunction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Solutions/Sol01Factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Solutions/Sol02PrintReversed.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Solutions/Sol03MinMax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Solutions/Sol04Avg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Solutions/Sol05SumAll.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Solutions/Sol06ReverseArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Solutions/Sol07PrintEvens.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Solutions/Sol08SumEvens.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Solutions/Sol09MinMaxDistance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Solutions/Sol10BuildTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Solutions/Sol11QuadraticFunction.java" afterDir="false" />
+    <list default="true" id="4dbb9259-4fef-42a2-bfe1-eedec15508c9" name="Changes" comment="Exercises and solutions">
+      <change afterPath="$PROJECT_DIR$/Exercises/Ex12AddArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises/Ex12AddArrays.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises/Ex13CombineArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises/Ex13CombineArrays.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises/Ex14SearchElementInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises/Ex14SearchElementInArray.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises/Ex15Subsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises/Ex15Subsequence.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Sol12AddArrays.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prework.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Prework.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ex01HelloWorldApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex01HelloWorldApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ex02HelloApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex02HelloApp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,16 +49,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Ex11QuadraticFunction">
+  <component name="RunManager" selected="Application.Sol12AddArrays">
     <configuration name="Ex04Avg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ex04Avg" />
-      <module name="Prework" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Ex05SumAll" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex05SumAll" />
       <module name="Prework" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -101,13 +78,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Sol12AddArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sol12AddArrays" />
+      <module name="Prework" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Sol12AddArrays" />
         <item itemvalue="Application.Ex11QuadraticFunction" />
         <item itemvalue="Application.Ex09MinMaxDistance" />
         <item itemvalue="Application.Ex10BuildTriangle" />
         <item itemvalue="Application.Ex04Avg" />
-        <item itemvalue="Application.Ex05SumAll" />
       </list>
     </recent_temporary>
   </component>
@@ -134,7 +118,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663770956442</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Exercises and solutions">
+      <created>1663851202953</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1663851202953</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -151,7 +142,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Exercise 3-10" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercise 3-10" />
+    <MESSAGE value="Exercises and solutions" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercises and solutions" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
