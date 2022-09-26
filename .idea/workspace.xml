@@ -1,11 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4dbb9259-4fef-42a2-bfe1-eedec15508c9" name="Changes" comment="Lesson 1">
+    <list default="true" id="4dbb9259-4fef-42a2-bfe1-eedec15508c9" name="Changes" comment="homework 1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ex10Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex10Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises/Ex02PrintReversed.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises/Ex02PrintReversed.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises/Ex03MinMax.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises/Ex03MinMax.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises/Ex04Avg.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises/Ex04Avg.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises/Ex05SumAll.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises/Ex05SumAll.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises/Ex07PrintEvens.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises/Ex07PrintEvens.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises/Ex08SumEvens.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises/Ex08SumEvens.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises/Ex10BuildTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises/Ex10BuildTriangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Ex11Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex11Arrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ex12Interview01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex12Interview01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,37 +45,37 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Ex12Interview01">
-    <configuration name="Ex02HelloApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex02HelloApp" />
+  <component name="RunManager" selected="Application.Ex02PrintReversed">
+    <configuration name="Ex02PrintReversed" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex02PrintReversed" />
       <module name="Prework" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex09Loops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex09Loops" />
+    <configuration name="Ex03MinMax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex03MinMax" />
       <module name="Prework" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex10Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex10Calculator" />
+    <configuration name="Ex07PrintEvens" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex07PrintEvens" />
       <module name="Prework" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex11Arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex11Arrays" />
+    <configuration name="Ex08SumEvens" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex08SumEvens" />
       <module name="Prework" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex12Interview01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex12Interview01" />
+    <configuration name="Ex10BuildTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex10BuildTriangle" />
       <module name="Prework" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -78,11 +83,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Ex12Interview01" />
-        <item itemvalue="Application.Ex11Arrays" />
-        <item itemvalue="Application.Ex10Calculator" />
-        <item itemvalue="Application.Ex02HelloApp" />
-        <item itemvalue="Application.Ex09Loops" />
+        <item itemvalue="Application.Ex02PrintReversed" />
+        <item itemvalue="Application.Ex10BuildTriangle" />
+        <item itemvalue="Application.Ex03MinMax" />
+        <item itemvalue="Application.Ex08SumEvens" />
+        <item itemvalue="Application.Ex07PrintEvens" />
       </list>
     </recent_temporary>
   </component>
@@ -109,7 +114,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663784067066</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="homework 1">
+      <created>1663948490184</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1663948490184</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -126,6 +138,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Lesson 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lesson 1" />
+    <MESSAGE value="homework 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="homework 1" />
   </component>
 </project>
