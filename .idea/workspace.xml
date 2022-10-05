@@ -3,17 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="4dbb9259-4fef-42a2-bfe1-eedec15508c9" name="Changes" comment="homework 1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercises/Ex01Factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises/Ex01Factorial.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercises/Ex02PrintReversed.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises/Ex02PrintReversed.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercises/Ex03MinMax.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises/Ex03MinMax.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercises/Ex04Avg.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises/Ex04Avg.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercises/Ex06ReverseArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises/Ex06ReverseArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercises/Ex08SumEvens.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises/Ex08SumEvens.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercises/Ex09MinMaxDistance.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises/Ex09MinMaxDistance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercises/Ex12AddArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises/Ex12AddArrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercises/Ex13CombineArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises/Ex13CombineArrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercises/Ex14SearchElementInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises/Ex14SearchElementInArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercises/Ex15Subsequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises/Ex15Subsequence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises/Ex16CalcFunctions.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises/Ex16CalcFunctions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises/Ex17PrintArrayFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises/Ex17PrintArrayFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises/Ex18AddArraysFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises/Ex18AddArraysFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises/Ex19TwoDimensionalArrayFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises/Ex19TwoDimensionalArrayFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises/Ex21TwoDimensionalArrayFunction3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises/Ex21TwoDimensionalArrayFunction3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex12TwoDimensionalArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex12TwoDimensionalArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,37 +43,37 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Ex05SumAll">
-    <configuration name="Ex03MinMax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex03MinMax" />
+  <component name="RunManager" selected="Application.Ex21TwoDimensionalArrayFunction3">
+    <configuration name="Ex12TwoDimensionalArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex12TwoDimensionalArray" />
       <module name="Prework" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex05SumAll" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex05SumAll" />
+    <configuration name="Ex17PrintArrayFunction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex17PrintArrayFunction" />
       <module name="Prework" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex06ReverseArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex06ReverseArray" />
+    <configuration name="Ex18AddArraysFunction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex18AddArraysFunction" />
       <module name="Prework" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex14SearchElementInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex14SearchElementInArray" />
+    <configuration name="Ex19TwoDimensionalArrayFunction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex19TwoDimensionalArrayFunction" />
       <module name="Prework" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex15Subsequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex15Subsequence" />
+    <configuration name="Ex21TwoDimensionalArrayFunction3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex21TwoDimensionalArrayFunction3" />
       <module name="Prework" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -86,11 +81,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Ex05SumAll" />
-        <item itemvalue="Application.Ex06ReverseArray" />
-        <item itemvalue="Application.Ex03MinMax" />
-        <item itemvalue="Application.Ex15Subsequence" />
-        <item itemvalue="Application.Ex14SearchElementInArray" />
+        <item itemvalue="Application.Ex21TwoDimensionalArrayFunction3" />
+        <item itemvalue="Application.Ex19TwoDimensionalArrayFunction" />
+        <item itemvalue="Application.Ex12TwoDimensionalArray" />
+        <item itemvalue="Application.Ex18AddArraysFunction" />
+        <item itemvalue="Application.Ex17PrintArrayFunction" />
       </list>
     </recent_temporary>
   </component>
@@ -131,7 +126,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664206699054</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="homework 1">
+      <created>1664984327772</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1664984327772</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
