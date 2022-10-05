@@ -2,15 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4dbb9259-4fef-42a2-bfe1-eedec15508c9" name="Changes" comment="Exercises and solutions">
-      <change afterPath="$PROJECT_DIR$/Exercises/Ex12AddArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercises/Ex12AddArrays.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercises/Ex13CombineArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercises/Ex13CombineArrays.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercises/Ex14SearchElementInArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercises/Ex14SearchElementInArray.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercises/Ex15Subsequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercises/Ex15Subsequence.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Solutions/Sol12AddArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises/Ex16CalcFunctions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises/Ex16CalcFunctions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises/Ex17PrintArrayFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises/Ex17PrintArrayFunction.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises/Ex18AddArraysFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises/Ex18AddArraysFunction.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises/Ex19TwoDimensionalArrayFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises/Ex19TwoDimensionalArrayFunction.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises/Ex20TwoDimensionalArrayFunction2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises/Ex20TwoDimensionalArrayFunction2.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises/Ex21TwoDimensionalArrayFunction3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises/Ex21TwoDimensionalArrayFunction3.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex12TwoDimensionalArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,14 +53,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Sol12AddArrays">
-    <configuration name="Ex04Avg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex04Avg" />
-      <module name="Prework" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Ex12TwoDimensionalArray">
     <configuration name="Ex09MinMaxDistance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ex09MinMaxDistance" />
       <module name="Prework" />
@@ -78,6 +75,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Ex12TwoDimensionalArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex12TwoDimensionalArray" />
+      <module name="Prework" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Sol12AddArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Sol12AddArrays" />
       <module name="Prework" />
@@ -87,11 +91,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex12TwoDimensionalArray" />
         <item itemvalue="Application.Sol12AddArrays" />
         <item itemvalue="Application.Ex11QuadraticFunction" />
         <item itemvalue="Application.Ex09MinMaxDistance" />
         <item itemvalue="Application.Ex10BuildTriangle" />
-        <item itemvalue="Application.Ex04Avg" />
       </list>
     </recent_temporary>
   </component>
