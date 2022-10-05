@@ -12,16 +12,16 @@ public class Ex03MinMax {
     public static void main(String[] args) {
 
         int[] array = new int[]{20, -8, 13, 1, 92, 2, 877, 32, 100};
-            int min = array[0];
-            int max = array[0];
-             for (int i = 1; i < array.length; i++){
-                 if (array[i]<min){
+        int min = array[0];
+        int max = array[0];
+        for (int i = 1; i < array.length; i++){
+            if (array[i]<min){
                      min = array[i];
-                 }
-                 if (array[i]>max){
-                     max = array[i];
-                 }
-             }
+            }
+            if (array[i]>max){
+               max = array[i];
+            }
+        }
              System.out.println("min:"+min);
         System.out.println("max:"+max);
     }

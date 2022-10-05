@@ -9,7 +9,6 @@ public class Ex04Avg {
 
         for (int i = 0; i<array.length; i++){
             sum = sum + array[i];
-
         }
         System.out.println(sum);
         double average = sum/array.length;

@@ -13,7 +13,6 @@ public class Ex08SumEvens {
             if (array[i]%2 == 0 ){
                 sum = sum + array[i];
             }
-
         }
         System.out.println(sum);
     }

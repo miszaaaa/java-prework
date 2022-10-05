@@ -4,6 +4,25 @@
  * */
 public class Ex06ReverseArray {
     public static void main(String[] args) {
-        int[] array = new int[]{20, -8, 13, 1, 92, 2, 877, 32, 100};
+
+        int[] array = new int[]{20, -8, 13, 1, 92, 2, 877, 32, 100, 200, 88, 77, 66};
+        int temp;
+        int i;
+        for (i = 0; i < array.length / 2; i++)
+        {
+            temp = array[i];
+            array[i] = array[array.length - i - 1];
+            array[array.length - i - 1] = temp;
+        }
+        for (i = 0; i < array.length; i++)
+        {
+            System.out.print(" " + array[i]);
+        }
     }
+
 }
+
+
+
+
+
